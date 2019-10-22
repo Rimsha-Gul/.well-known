@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rimsha.cv.base",
+    "sha256_cert_fingerprints":
+    ["AA:63:2E:B0:18:DB:92:8B:2A:72:E4:8F:BB:33:81:9A:88:8B:13:80:6A:A5:26:F7:A2:8E:70:1E:6C:1F:BC:A1"]
+  }
+}]
